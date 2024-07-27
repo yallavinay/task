@@ -1,0 +1,502 @@
+.head1
+{
+	border:1px solid white;
+	height: 50px;
+	width: 1505px;
+	background-color: white;
+	display: flex;
+}
+.sub1
+{
+	padding-left: 50px;
+}
+.sub2
+{
+	padding-left: 1150px;
+}
+.sub3
+{
+	display:block;
+}
+.main1
+{
+	margin-top: 5px;
+	background-image: url("../images/bgimage2.jpg");
+	height: 650px;
+	width: 1505px;
+}
+.s1
+{
+	padding-top: 120px;
+	padding-left: 1000px;
+	font-size: 22px;
+	color: green;
+}
+.s2
+{    
+	font-family: "Brush Script MT", "Brush Script Std", cursive;
+	font-size: 65px;
+	padding-left: 950px;
+	color: orange;
+}
+.p1
+{
+	
+	font-size: 20px;
+	padding-left: 960px;
+	font-family: cursive;
+
+}
+.b1
+{
+	margin-top: 20px;
+	margin-left: 990px;
+    padding:10px;
+    color: white;
+    background-color: green; 
+}
+.main2
+{
+	/*
+	.he2
+	{
+
+		}*/
+	height: 800px;
+	width: 1505px;
+	background-color: green;
+}
+.sub4
+{
+
+	/*
+	.he2
+	{
+
+		}*/
+	height: 200px;
+	width: 1505px;
+}
+.sub5
+{
+	/*
+	.he2
+	{
+
+		}*/
+	height: 550px;
+    width: 1100px;
+     margin-left: 180px;
+     margin-top: 20px;
+}
+.sub6
+{
+	color: white;
+	text-align: center;
+}
+.p2
+{
+	font-family: cursive;
+
+}
+.sub7
+{
+
+	display: flex;
+	justify-content: space-around;
+}
+.d1
+{
+	margin-top: 30px;
+	/*
+	.he2
+	{
+
+		}*/
+	height:228px;
+	width:310px;
+	background-image: url("../images/16.jpg");
+}
+.d2
+{
+	margin-top: 30px;
+	/*
+	.he2
+	{
+
+		}*/
+	height:228px;
+	width:310px;
+	background-color: white;
+	font-family: cursive;
+	padding-left: 15px;
+}
+.d3
+{
+	margin-top: 30px;
+	/*
+	.he2
+	{
+
+		}*/
+	height:228px;
+	width:310px;
+	background-image: url("../images/51.jpg");
+}
+.sub8
+{
+	display: flex;
+	justify-content: space-around;
+
+}
+.d4
+{
+	background-color: white;
+	margin-top: 30px;
+	border:1px solid white;
+	height: 240px;
+	width: 310px;
+	font-family: cursive;
+}
+.d5
+{
+	margin-top: 30px;
+	border:1px solid white;
+	height: 240px;
+	width: 310px;
+	background-image: url("../images/50.jpg");
+}
+.d6
+{
+	margin-top: 30px;
+	border:1px solid white;
+	height: 240px;
+	width: 310px;
+	background-color: white;
+	font-family: cursive;
+}
+.he1
+{
+	text-align: center;
+	color: grey;
+}
+.p3
+{
+	text-align: justify;
+	color: grey;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.he2
+{
+    padding-top: 25px;
+}
+.main3
+{
+}
+.sub9
+{
+	background-image: url("../images/53.jpg");
+	height: 600px;
+	width: 1300px;
+	margin-left: 200px;
+
+}
+.sub10
+{
+	/*border:1px solid white;*/
+	height: 600px;
+	width: 600px;
+  margin-top: 20px;
+  background-color: white;
+}
+.he3
+{
+	font-size: 30px;
+	color: green;
+	padding-top: 100px;
+	padding-left: 250px;
+	font-family: sans-serif;
+}
+.he4
+{
+	font-size: 70px;
+	color: orange;
+	padding-left: 190px;
+	font-family: "Brush Script MT", "Brush Script Std", cursive;
+}
+.p4
+{
+	padding-left: 100px;
+	font-family: cursive;
+}
+.b2
+{
+	padding:10px;
+	color: white;
+	background-color: green;
+	margin-left: 240px;
+	margin-top: 50px;
+}
+.main4
+{
+	margin-top: 20px;
+	border:1px solid white;
+	height: 600px;
+	width: 1500px;
+}
+.sub11
+{
+	background-color: green;
+	border:1px solid white;
+	height: 350px;
+	width: 1500px;
+}
+.he5
+{
+	color: white;
+	text-align: center;
+}
+.p5
+{
+	color: white;
+	text-align: center;
+}
+.sub12
+{
+	display: flex;
+	justify-content: space-around;
+}
+.d8
+{
+	margin-top: 84px;
+	margin-left: 10px;
+	border:1px solid white;
+	height: 130px;
+	width: 250px;
+	background-color: white;
+}
+.d9
+{
+	margin-top: 84px;
+	border:1px solid white;
+	height: 130px;
+	width: 250px;
+	background-color: white;
+}
+.d10
+{
+	margin-top: 84px;
+	border:1px solid white;
+	height: 130px;
+	width: 250px;
+	background-color: white;
+}
+.d11
+{
+	margin-top: 84px;
+	border:1px solid white;
+	height: 130px;
+	width: 250px;
+	background-color: white;
+}
+.sub13
+{
+	display: flex;
+	justify-content: space-around;
+}
+.d12
+{
+	margin-left:10px;
+	border:1px solid white;
+	height: 200px;
+	width:  260px;
+	background-image: url("../images/55.jpg");
+}
+.d13
+{
+    background-image: url("../images/56.jpg");	
+	border:1px solid white;
+	height: 200px;
+	width:  260px;
+}
+.d14
+{
+    background-image: url("../images/57.jpg");	
+	border:1px solid white;
+	height: 200px;
+	width:  260px;
+}
+.d15
+{
+	background-image: url("../images/58.jpg");
+	border:1px solid white;
+	height: 200px;
+	width:  260px;
+}
+.he6
+{
+	color: green;
+	padding:10px;
+}
+.p6
+{
+  padding-left: 10px;
+}
+.main5
+{
+	/*border:1px solid black;*/
+	height: 500px;
+	width: 1500px;
+}
+.sub14
+{
+	display: flex;
+}
+.d16
+{
+	background-image: url("../images/59.jpg");
+	/*border:1px solid black;*/
+	height: 500px;
+	width: 750px;
+}
+.d17
+{
+	/*border:1px solid black;*/
+	height: 500px;
+	width: 750px;
+}
+.he7
+{
+	font-family: sans-serif;
+	color: green;
+	padding-left: 250px;
+	padding-top: 80px;
+}
+.he8
+{
+	font-family: "Brush Script MT", "Brush Script Std", cursive;
+	color: orange;
+	padding-left: 200px;
+	font-size: 50px;	
+}
+.p7
+{
+ padding-left: 130px;
+ font-family: cursive;
+}
+.b4
+{
+	color: white;
+	background-color:orange;
+	margin-left: 300px;
+	padding:10px;
+	margin-top: 20px;
+}
+.main6
+{
+	margin-top: 10px;
+	/*border:1px solid black;*/
+	height: 600px;
+	width: 1500px;
+	background-color: 	#E6E6FA;
+}
+
+.sub15
+{
+	display: flex;
+	justify-content: space-around;
+}
+.d18
+{
+	padding-top: 30px;
+	/*padding-left: 40px;*/
+	/*padding: 15px;*/
+	margin-top: 60px;
+	/*border:1px solid black;*/
+     height: 400px;
+     width:350px;
+     text-align: center;
+     background-color:#F5F5F5; 
+}
+.d19
+{
+	padding-top: 30px;
+	/*padding-left: 40px;*/
+	/*padding: 15px;*/
+	margin-top: 60px;
+	/*border:1px solid black;*/
+     height: 400px;
+     width:350px;
+     text-align: center;
+     background-color:#F5F5F5; 
+}
+.d20
+{
+padding-top: 30px;
+	/*padding-left: 40px;*/
+	/*padding: 15px;*/
+	margin-top: 60px;
+	/*border:1px solid black;*/
+     height: 400px;
+     width:350px;
+     text-align: center;
+     background-color:#F5F5F5; 
+}
+}
+.p8
+{
+	padding:10px;
+}
+.main7
+{
+	margin-top: 20px;
+	background-image: url("../images/60.jpg");
+	height: 700px;
+	width: 1500px;
+}
+.he9
+{
+	color: green;
+	padding-left: 150px;
+	padding-top: 100px;
+
+}
+.he10
+{
+	font-family:  "Brush Script MT", "Brush Script Std", cursive;
+	color: orange;
+	padding-left: 150px;
+	font-size: 50px;
+}
+.p9
+{
+	font-family: cursive;
+	padding-left: 100px;
+	padding-top: 30px;
+	font-size: 15px;
+}
+.b6
+{
+	margin-left: 200px;
+	margin-top: 100px;
+	padding:10px; 
+	background-color: orange;
+	color: white;
+}
+.sub18
+{
+	width: 900px;
+	padding-left: 100px;
+  }
+ .sub20
+ {
+ 	background-image: url("../images/61.jpg");
+ 	height: 450px;
+ 	width: 900px;
+
+ }
+ .main8
+ {
+ 	display: flex;
+ }
